@@ -14,4 +14,6 @@ pip install git+https://github.com/samkasbawala/mlb-hof-scraper.git
 ```
 
 ## Todo
-Add tests lol
+- Add tests lol
+- Add players that have been voted in by the veterens committee
+- If there is no table on a valid page, then None should be returned
